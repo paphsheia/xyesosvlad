@@ -1,0 +1,1 @@
+[{"color":"FF0000","dopname":"(X2)","maxonline":1000,"name":"RED","online":0,"edgar_host":"146.59.209.106","kranin_port":"1113"},{"color":"FF0000","dopname":"(X2)","maxonline":1000,"name":"RED","online":0,"edgar_host":"146.59.209.106","kranin_port":"1113"}]
